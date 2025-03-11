@@ -1,0 +1,26 @@
+zoo/
+├─ admin/                     // Admin-Bereich für die Verwaltung
+│  ├─ admin_header.php        // Kopfbereich der Admin-Oberfläche
+│  ├─ admin_footer.php        // Fußbereich der Admin-Oberfläche
+│  ├─ dashboard.php           // Übersicht aller administrativen Funktionen
+│  └─ ...                    // Weitere Admin-Files (z.B. Pflegepanel, Mitarbeiterverwaltung)
+│
+├─ images/                    // Bilderverzeichnis
+│  ├─ gehege/                 // Fotos der Gehege
+│  │  ├─ elefanten_gehege.jpg  
+│  │  ├─ löwen_gehege.jpg     
+│  │  └─ ...                 // Weitere Gehegebilder
+│  ├─ animals/                // Tierfotos
+│  │  ├─ elefant.jpg          
+│  │  ├─ giraffe.jpg          
+│  │  └─ ...                 // Weitere Tierbilder
+│  └─ ...                     // Weitere Bildkategorien (z.B. Banner, Logos)
+│
+├─ index.php                  // Startseite der Website
+├─ login.php                  // Login-Seite für Benutzer
+├─ register.php               // Registrierung neuer Benutzer
+├─ dashboard.php              // Dashboard für angemeldete Benutzer
+├─ db_config.php              // Datenbankkonfiguration
+├─ style.css                  // Zentrales Stylesheet
+├─ scripts.js                 // Zentrales JavaScript
+└─ ...                      // Weitere Dateien (z.B. logger.php, user_profile.php etc.)
