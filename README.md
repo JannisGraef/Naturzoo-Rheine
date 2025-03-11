@@ -68,29 +68,4 @@
 
 
 
-naturzoo_rheine/
-│
-├─ index.html
-├─ gehege.php
-├─ enclosure_details.php
-├─ login.html
-├─ register.html
-├─ dashboard.php
-├─ logout.php
-├─ login.php
-├─ register.php
-├─ db_config.php
-│
-├─ style.css
-├─ script.js
-│
-├─ images/
-│  ├─ generated_zoo_image.jpg
-│  ├─ zoo_plan.jpg
-│  ├─ enclosure_lions.jpg
-│  ├─ enclosure_elephants.jpg
-│  ├─ enclosure_birds.jpg
-│  └─ ... (weitere Bilder)
-│
-└─ (Optional) uploads/
-   └─ (verwendet, wenn du Dateien hochladen möchtest)
+
